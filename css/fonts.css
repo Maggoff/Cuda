@@ -1,0 +1,62 @@
+@font-face {
+	font-family: 'TitilliumWeb';
+	src: url('../fonts/TitilliumWeb.woff2') format('woff2'),
+		url('../fonts/TitilliumWeb.woff') format('woff');
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TitilliumWeb';
+	src: url('../fonts/TitilliumWeb-Bold.woff2') format('woff2'),
+		url('../fonts/TitilliumWeb-Bold.woff') format('woff');
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TitilliumWeb-Italic';
+	src: url('../fonts/TitilliumWeb-Italic.woff2') format('woff2'),
+		url('../fonts/TitilliumWeb-Italic.woff') format('woff');
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TitilliumWeb';
+	src: url('../fonts/TitilliumWeb-Light.woff2') format('woff2'),
+		url('../fonts/TitilliumWeb-Light.woff') format('woff');
+	font-display: swap;
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TitilliumWeb';
+	src: url('../fonts/TitilliumWeb-Semibold.woff2') format('woff2'),
+		url('../fonts/TitilliumWeb-Semibold.woff') format('woff');
+	font-display: swap;
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Myriadpro';
+	src: url('../fonts/Myriadpro-Regular.woff2') format('woff2'),
+		url('../fonts/Myriadpro-Regular.woff') format('woff');
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Damion';
+	src: url('../fonts/Damion.woff2') format('woff2'),
+		url('../fonts/Damion.woff') format('woff');
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
